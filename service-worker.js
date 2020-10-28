@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/juniorPardal/precache-manifest.29877921d401f8704ff2c7e2d140395d.js"
+  "/juniorPardal/precache-manifest.03f9228a92899cc49f706ec5f24cce58.js"
 );
 
 self.addEventListener('message', (event) => {
