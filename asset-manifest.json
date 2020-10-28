@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b3930c.chunk.css",
-    "main.js": "/static/js/main.7baed296.chunk.js",
-    "main.js.map": "/static/js/main.7baed296.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bfca2edd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bfca2edd.js.map",
-    "static/css/2.b4f87c52.chunk.css": "/static/css/2.b4f87c52.chunk.css",
-    "static/js/2.341e841d.chunk.js": "/static/js/2.341e841d.chunk.js",
-    "static/js/2.341e841d.chunk.js.map": "/static/js/2.341e841d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ba7fa2e2294b751300bfa8bba2153d29.js": "/precache-manifest.ba7fa2e2294b751300bfa8bba2153d29.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.b4f87c52.chunk.css.map": "/static/css/2.b4f87c52.chunk.css.map",
-    "static/css/main.d1b3930c.chunk.css.map": "/static/css/main.d1b3930c.chunk.css.map",
-    "static/js/2.341e841d.chunk.js.LICENSE.txt": "/static/js/2.341e841d.chunk.js.LICENSE.txt",
-    "static/media/circle-36-512.png": "/static/media/circle-36-512.ebffa146.png",
-    "static/media/landing.css": "/static/media/landing.7d59377f.svg",
-    "static/media/logo-branco.svg": "/static/media/logo-branco.cf75eb0c.svg",
-    "static/media/tenders.css": "/static/media/pardalHeart.a53f8e35.svg"
+    "main.css": "/juniorPardal/static/css/main.1704349f.chunk.css",
+    "main.js": "/juniorPardal/static/js/main.c941f15d.chunk.js",
+    "main.js.map": "/juniorPardal/static/js/main.c941f15d.chunk.js.map",
+    "runtime-main.js": "/juniorPardal/static/js/runtime-main.60aa554c.js",
+    "runtime-main.js.map": "/juniorPardal/static/js/runtime-main.60aa554c.js.map",
+    "static/css/2.b4f87c52.chunk.css": "/juniorPardal/static/css/2.b4f87c52.chunk.css",
+    "static/js/2.112554c3.chunk.js": "/juniorPardal/static/js/2.112554c3.chunk.js",
+    "static/js/2.112554c3.chunk.js.map": "/juniorPardal/static/js/2.112554c3.chunk.js.map",
+    "index.html": "/juniorPardal/index.html",
+    "precache-manifest.29877921d401f8704ff2c7e2d140395d.js": "/juniorPardal/precache-manifest.29877921d401f8704ff2c7e2d140395d.js",
+    "service-worker.js": "/juniorPardal/service-worker.js",
+    "static/css/2.b4f87c52.chunk.css.map": "/juniorPardal/static/css/2.b4f87c52.chunk.css.map",
+    "static/css/main.1704349f.chunk.css.map": "/juniorPardal/static/css/main.1704349f.chunk.css.map",
+    "static/js/2.112554c3.chunk.js.LICENSE.txt": "/juniorPardal/static/js/2.112554c3.chunk.js.LICENSE.txt",
+    "static/media/circle-36-512.png": "/juniorPardal/static/media/circle-36-512.ebffa146.png",
+    "static/media/landing.css": "/juniorPardal/static/media/landing.7d59377f.svg",
+    "static/media/logo-branco.svg": "/juniorPardal/static/media/logo-branco.cf75eb0c.svg",
+    "static/media/tenders.css": "/juniorPardal/static/media/pardalHeart.a53f8e35.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfca2edd.js",
+    "static/js/runtime-main.60aa554c.js",
     "static/css/2.b4f87c52.chunk.css",
-    "static/js/2.341e841d.chunk.js",
-    "static/css/main.d1b3930c.chunk.css",
-    "static/js/main.7baed296.chunk.js"
+    "static/js/2.112554c3.chunk.js",
+    "static/css/main.1704349f.chunk.css",
+    "static/js/main.c941f15d.chunk.js"
   ]
 }
